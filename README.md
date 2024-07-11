@@ -1,7 +1,7 @@
-# assignment-2
-group assignment for eodp assignment 2
+# Project
+group project for "Elements of Data Processing"
 
-YoungJun Cho
+Young Jun Cho
 1075878
 
 Felix Wade
